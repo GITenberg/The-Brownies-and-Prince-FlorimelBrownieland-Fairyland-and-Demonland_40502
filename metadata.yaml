@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35178
     wikipedia: http://en.wikipedia.org/wiki/Palmer_Cox
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40502#The-Brownies-and-Prince-FlorimelBrownieland-Fairyland-and-Demonland
 gutenberg_issued: '2012-08-14'
 gutenberg_type: Text
 identifiers:
